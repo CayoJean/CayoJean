@@ -12,11 +12,7 @@
 ##
 <p align="center">
    <a href="https://web.facebook.com/" target="blank">
-    <img align="center" src="images.png" alt="Canal de Twitch de midudev" height="28px" width="56px" />
-  </a>
-  <span style="width: 8px;"> </span>
-   <a href="https://youtube.com/midudev" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px" />
+    <img align="center" src="[images.png](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)" alt="" height="28px" width="56px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://instagram.com/midu.dev" target="blank">
