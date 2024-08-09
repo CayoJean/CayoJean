@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy Cayo Jean
+¡Hola! 👋 Soy Cayo Jean
 
 ---
 
