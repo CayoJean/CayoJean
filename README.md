@@ -12,7 +12,7 @@
 ##
 <p align="center">
    <a href="https://web.facebook.com/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="28px" width="56px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="23px" width="28px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://instagram.com" target="blank">
@@ -25,7 +25,7 @@
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://discord.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Discord_code.png" alt="" height="23px" width="28px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Discord_code.png" alt="" height="25px" width="28px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://www.linkedin.com/" target="blank">
