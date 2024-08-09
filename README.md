@@ -2,7 +2,6 @@
 
 ---
 
-##
 <div id="header" align="center">
   <h3> Actualmente Soy, Estudiante Apasionado de Programación Full Stack....
   </h3>
