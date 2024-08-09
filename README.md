@@ -12,24 +12,24 @@
 ##
 <p align="center">
    <a href="https://web.facebook.com/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="30px" width="35px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="50px" width="55px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://instagram.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="30px" width="35px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="50px" width="55px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://x.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="" height="30px" width="35px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="" height="50px" width="55px" />
   </a>
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://discord.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Discord_code.png" alt="" height="30px" width="35px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Discord_code.png" alt="" height="50px" width="55px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://www.linkedin.com/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Linke_din.png" alt="" height="30px" width="35px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Linke_din.png" alt="" height="50px" width="55px" />
   </a>
 </p>
 
