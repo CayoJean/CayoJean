@@ -28,6 +28,10 @@
   <a href="https://www.linkedin.com/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Linke_din.png" alt="" height="50px" width="55px" />
   </a>
+  <span style="width: 8px;"> </span>
+  <a href="https://whatsApp.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="" height="50px" width="55px" />
+  </a>
 </p>
 
 ---
@@ -38,7 +42,7 @@
 
 ---
 
-## Tecnologías y herramientas 
+### Tecnologías y herramientas 
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
