@@ -1,9 +1,9 @@
-### <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Revista_%C2%A1Hola%21_logo.svg" alt="" height="100px" width="105px"/>     👋 Soy Cayo Jean      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="50px" width="105px"/>
+### <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Revista_%C2%A1Hola%21_logo.svg" alt="" height="100px" width="105px"/>        👋 Soy Cayo Jean
 
 ---
 
 <div id="header" align="center">
-  <h3> Actualmente Soy, Estudiante Apasionado de Programación Full Stack....
+  <h3> Actualmente Soy, Estudiante Apasionado de Programación Full Stack.... <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="30px" width="105px"/>
   </h3>
 </div>
 
