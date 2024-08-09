@@ -65,9 +65,6 @@
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/>
   </a>
-   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/>
-  </a>
   <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="git" width="40" height="40"/> 
   </a>
