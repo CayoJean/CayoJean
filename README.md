@@ -1,4 +1,4 @@
-### <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Revista_%C2%A1Hola%21_logo.svg" alt="" height="100px" width="105px"/>     👋 Soy Cayo Jean      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="100px" width="105px"/>
+### <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Revista_%C2%A1Hola%21_logo.svg" alt="" height="100px" width="105px"/>     👋 Soy Cayo Jean      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="100px" width="50px"/>
 
 ---
 
