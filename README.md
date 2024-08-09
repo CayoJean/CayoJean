@@ -8,8 +8,6 @@
   </h3>
 </div>
 
-
-##
 <p align="center">
    <a href="https://web.facebook.com/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="50px" width="55px" />
@@ -33,6 +31,7 @@
   </a>
 </p>
 
+---
 
 ### Contactame:
 
