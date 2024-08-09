@@ -1,4 +1,4 @@
-## ¡Hola!👋 Soy Cayo Jean
+## ¡Hola! 👋 Soy Cayo Jean
 
 <!--
 **CayoJean/CayoJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
