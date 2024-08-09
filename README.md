@@ -24,7 +24,7 @@
   </a>
   </a>
   <span style="width: 8px;"> </span>
-  <a href="https://discord.com" target="blank">
+  <a href="https://discord.com/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Discord_code.png" alt="" height="50px" width="55px" />
   </a>
   <span style="width: 8px;"> </span>
