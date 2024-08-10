@@ -72,7 +72,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
   </a> 
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"alt="VSC" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="" width="60" height="60"/>
   </a>
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="60" height="60"/>
