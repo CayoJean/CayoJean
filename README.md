@@ -38,8 +38,13 @@
 
 ### Contactame:
 
-- Hotmail : **cayojean.fs_97@hotmail.com**
+- Hotmail <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Outlook_logo_2023.webp" alt="" height="14px" width="12px" /> : **cayojean.fs_97@hotmail.com**
 - Facebook <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="14px" width="12px" /> : **www.facebook.com**
+- Instagram <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="14px" width="12px" /> : **www.instagram.com**
+- X <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="" height="14px" width="12px" /> : **www.x.com**
+- Discord <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Discord_code.png" alt="" height="14px" width="12px" /> : **www.discord.com**
+- Linkedln <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Linke_din.png" alt="" height="14px" width="12px" /> : **www.linkedln.com**
+- WhatsApp <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="" height="14px" width="12px" /> : **www.whatsapp.com**
 
 ---
 
