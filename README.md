@@ -1,5 +1,5 @@
 ---
-### <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Revista_%C2%A1Hola%21_logo.svg" alt="" height="200px" width="205px"/>        alt="👋 Soy Cayo Jean" height="220px" width="205px" />
+### <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Revista_%C2%A1Hola%21_logo.svg" alt="👋 Soy Cayo Jean" height="200px" width="205px"/>
 
 ---
 
