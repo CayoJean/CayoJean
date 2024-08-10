@@ -1,5 +1,5 @@
 ---
-### <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Revista_%C2%A1Hola%21_logo.svg" alt="" height="100px" width="105px"/>        👋 Soy Cayo Jean
+### <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Revista_%C2%A1Hola%21_logo.svg" alt="" height="200px" width="205px"/>        👋 Soy Cayo Jean
 
 ---
 
@@ -96,7 +96,7 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="" width="60" height="60"/>
   </a>
 </p>
-
+---
 
 <!--
 **CayoJean/CayoJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
