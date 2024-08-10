@@ -39,7 +39,7 @@
 ### Contactame:
 
 - Hotmail : **cayojean.fs_97@hotmail.com**
-- Facebook <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="12px" width="12px" /> : **www.facebook.com**
+- Facebook <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="10px" width="12px" /> : **www.facebook.com**
 
 ---
 
