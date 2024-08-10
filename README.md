@@ -38,7 +38,7 @@
 
 ### Contactame:
 
-- Hotmail [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Outlook_logo_2023.webp" alt="" height="14px" width="12px" />](https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg) : **cayojean.fs_97@hotmail.com**
+- Hotmail <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Outlook_Icon.png" alt="" height="14px" width="12px" /> : **cayojean.fs_97@hotmail.com**
 - Facebook <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="14px" width="12px" /> : **www.facebook.com**
 - Instagram <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="14px" width="12px" /> : **www.instagram.com**
 - X <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="" height="14px" width="12px" /> : **www.x.com**
