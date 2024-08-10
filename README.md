@@ -42,7 +42,7 @@
 
 ---
 
-### Tecnologías y herramientas Aprendiendo
+### Tecnologías y Herramientas de PROGRAMACIÓN Aprendiendo
 <p align="left">
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="" width="60" height="60"/>
