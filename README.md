@@ -1,5 +1,6 @@
 ---
-### <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Revista_%C2%A1Hola%21_logo.svg" alt="" height="200px" width="205px"/>        <👋 Soy Cayo Jean alt="" height="200px" width="205px"/>
+### <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Revista_%C2%A1Hola%21_logo.svg" alt="" height="200px" width="205px"/>        alt="👋 Soy Cayo Jean" height="220px" width="205px" />
+
 ---
 
 ### Acerca de Mí:
@@ -41,6 +42,7 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="" height="50px" width="55px" />
   </a>
 </p>
+
 ---
 
 ### Contactame:
@@ -52,6 +54,7 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 - Discord <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Discord_code.png" alt="" height="14px" width="12px" /> : **www.discord.com**
 - Linkedln <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Linke_din.png" alt="" height="14px" width="12px" /> : **www.linkedln.com**
 - WhatsApp <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="" height="14px" width="12px" /> : **www.whatsapp.com**
+  
 ---
 
 ### Tecnologías y Herramientas, Lenguajes de Programación Aprendiendo
@@ -93,6 +96,7 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="" width="60" height="60"/>
   </a>
 </p>
+
 ---
 
 <!--
