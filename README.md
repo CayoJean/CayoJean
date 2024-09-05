@@ -31,7 +31,7 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
   </a>
   <span style="width: 10px;"> </span>
   <a href="https://discord.com/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Discord_code.png" alt="" height="50px" width="55px" />
+    <img align="center" src="https://commons.wikimedia.org/wiki/File:Made-myself-a-custom-discord-icon-v0-t9j9padwfdqb1.png" alt="" height="50px" width="55px" color=#0000FF /> 
   </a>
   <span style="width: 10px;"> </span>
   <a href="https://www.linkedin.com/" target="blank">
