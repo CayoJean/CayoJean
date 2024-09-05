@@ -35,7 +35,7 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
   </a>
   <span style="width: 10px;"> </span>
   <a href="https://www.linkedin.com/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Linke_din.png" alt="" height="50px" width="55px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
   <a href="https://whatsApp.com" target="blank">
