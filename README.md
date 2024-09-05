@@ -31,7 +31,7 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
   </a>
   <span style="width: 10px;"> </span>
   <a href="https://discord.com/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Made-myself-a-custom-discord-icon-v0-t9j9padwfdqb1.png" alt="" height="60px" width="55px" /> 
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Made-myself-a-custom-discord-icon-v0-t9j9padwfdqb1.png" alt="" height="70px" width="55px" /> 
   </a>
   <span style="width: 10px;"> </span>
   <a href="https://www.linkedin.com/" target="blank">
