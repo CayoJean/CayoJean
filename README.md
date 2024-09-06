@@ -24,11 +24,11 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
   <a href="https://instagram.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="50px" width="55px" />
   </a>
-  <span style="width: 8px;"> </span>
+  <span style="width: 10px;"> </span>
   <a href="https://x.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/X_icon_-_Gray.svg" alt="" height="50px" width="55px" />
   </a>
-  <span style="width: 8px;"> </span>
+  <span style="width: 10px;"> </span>
   <a href="https://discord.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Discord-vamp-icon.png" alt="" height="50px" width="55px" />
   </a>
