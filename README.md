@@ -41,6 +41,7 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="50px" width="55px" />
   </a>
 </p>
+
 ---
 
 ### Contactame:
