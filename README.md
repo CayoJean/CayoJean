@@ -17,28 +17,28 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 </div>
 
 <p align="center">
-   <a href="https://web.facebook.com/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="50px" width="55px" />
+   <a href="https://web.facebook.com/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
-  <a href="https://instagram.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="50px" width="55px" />
+  <a href="https://instagram.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
-  <a href="https://x.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/X_icon_-_Gray.svg" alt="" height="50px" width="55px" />
+  <a href="https://x.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/X_icon_-_Gray.svg" alt="X" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
-  <a href="https://discord.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Discord-vamp-icon.png" alt="" height="50px" width="55px" />
+  <a href="https://discord.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Discord-vamp-icon.png" alt="Discord" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
   <a href="https://www.linkedin.com/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="" height="50px" width="55px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="Linnkedin" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
-  <a href="https://whatsApp.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="" height="50px" width="55px" />
+  <a href="https://whatsApp.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="50px" width="55px" />
   </a>
 </p>
 
