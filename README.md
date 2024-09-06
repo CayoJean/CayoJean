@@ -26,12 +26,12 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://x.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="" height="50px" width="55px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/X_icon_-_Gray.svg" alt="" height="50px" width="55px" />
   </a>
   </a>
   <span style="width: 10px;"> </span>
   <a href="https://discord.com/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Tabler-icons_brand-discord.svg" alt="" height="70px" width="55px" /> 
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Bootstrap_discord.svg" alt="" height="70px" width="55px" /> 
   </a>
   <span style="width: 10px;"> </span>
   <a href="https://www.linkedin.com/" target="blank">
