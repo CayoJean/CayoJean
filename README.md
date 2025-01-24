@@ -3,7 +3,7 @@
 
 ---
 
-### Acerca de Mí:
+### <Acerca de Mí/>:
 <div id="header" align="center">
   <h3> Soy un Programador Full Stack Developer Junior.... <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="30px" width="105px"/>
   </h3>
@@ -45,7 +45,7 @@
 
 ---
 
-### Contactame:
+### <Contactame/>:
 
 - Pagina Web <img align="center" src="" alt="" height="14px" width="12px" /> : **https://cayojeanweb.netlify.app/**
 - Hotmail <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Outlook_Icon.png" alt="" height="14px" width="12px" /> : **cayojean.fs_97@hotmail.com**
@@ -58,7 +58,7 @@
   
 ---
 
-### Tecnologías y Herramientas
+### <Hailidades Técnicas y Herramientas/>
 <p align="left">
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="" width="60" height="60"/>
