@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://cayojeanweb.netlify.app/" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg](https://upload.wikimedia.org/wikipedia/commons/e/ea/WP23PuzzleMundo.svg)" alt="Facebook" height="50px" width="55px" />
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg](https://upload.wikimedia.org/wikipedia/commons/e/ea/WP23PuzzleMundo.svg)" alt="Pagina Web" height="50px" width="55px" />
   </a>
   <a href="https://web.facebook.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="50px" width="55px" />
@@ -47,7 +47,7 @@
 
 ### Contactame:
 
-- Pagina Web <img align="center" src="- Pagina Web <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Outlook_Icon.png" alt="" height="14px" width="12px" /> : **https://cayojeanweb.netlify.app/**
+- Pagina Web <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Outlook_Icon.png" alt="" height="14px" width="12px" /> : **https://cayojeanweb.netlify.app/**
 - Hotmail <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Outlook_Icon.png" alt="" height="14px" width="12px" /> : **cayojean.fs_97@hotmail.com**
 - Facebook <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="14px" width="12px" /> : **www.facebook.com**
 - Instagram <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="14px" width="12px" /> : **www.instagram.com**
@@ -88,11 +88,6 @@
   </a>
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="" width="60" height="60"/>
-  </a>
-  
-  <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="" width="60" height="60"/>
-  </a>
   </a>
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="" width="60" height="60"/>
