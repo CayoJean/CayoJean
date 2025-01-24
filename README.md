@@ -5,14 +5,12 @@
 
 ### Acerca de Mí:
 <div id="header" align="center">
-  <h3> Actualmente Soy, Estudiante Apasionado de Programación Full Stack.... <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="30px" width="105px"/>
+  <h3> Soy un Programador Full Stack Developer Junior.... <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="30px" width="105px"/>
   </h3>
 </div>
 
 <div id="header" align="center">
-  <h3> Mi viaje en el mundo de la tecnología comenzó con una fascinación por crear soluciones que no solo funcionen de manera eficiente sino que también brinden una experiencia de usuario convincente.
-
-A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy buscando proyectos y oportunidades colaborativos en los que pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!
+  <h3> Con conocimientos prácticos en Front-End (HTML, CSS y JAVASCRIPT), Back-End (JAVA, SPRING BOOT y SPRING SECURITY) y con capacidad de entender nuevas tecnologías rápidamente y la facultad de trabajar en un entorno de equipo. Mi viaje en el mundo de la tecnología comenzó con una fascinación por crear soluciones que no solo funcionan de manera eficiente, sino que también brindan una experiencia de usuario convincente. A medida que continúa mi viaje en el desarrollo Full Stack, siempre estoy buscando proyectos y oportunidades colaborativas en los que pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!.
   </h3>
 </div>
 
@@ -56,7 +54,7 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
   
 ---
 
-### Tecnologías y Herramientas, Lenguajes de Programación Aprendiendo
+### Tecnologías y Herramientas
 <p align="left">
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="" width="60" height="60"/>
@@ -79,11 +77,6 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="" width="60" height="60"/>
   </a>
-  <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="" width="60" height="60"/>
-  </a>
-  <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="" width="60" height="60"/> 
   </a>
   <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" width="60" height="60"/> 
