@@ -15,6 +15,9 @@
 </div>
 
 <p align="center">
+  <a href="https://cayojeanweb.netlify.app/" target="_blank">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg](https://upload.wikimedia.org/wikipedia/commons/e/ea/WP23PuzzleMundo.svg)" alt="Facebook" height="50px" width="55px" />
+  </a>
   <a href="https://web.facebook.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="50px" width="55px" />
   </a>
@@ -44,6 +47,7 @@
 
 ### Contactame:
 
+- Pagina Web <img align="center" src="- Pagina Web <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Outlook_Icon.png" alt="" height="14px" width="12px" /> : **https://cayojeanweb.netlify.app/**
 - Hotmail <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Outlook_Icon.png" alt="" height="14px" width="12px" /> : **cayojean.fs_97@hotmail.com**
 - Facebook <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="14px" width="12px" /> : **www.facebook.com**
 - Instagram <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="14px" width="12px" /> : **www.instagram.com**
@@ -62,31 +66,36 @@
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="" width="60" height="60"/>
   </a>
+  </a>
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="" width="60" height="60"/>
   </a>
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60" height="60"/>
   </a>
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="" width="60" height="60"/>
-  </a>
-  <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="" width="60" height="60"/>
-  </a>
-  <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="" width="60" height="60"/>
-  </a>
   </a>
   <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" width="60" height="60"/> 
   </a> 
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="60" height="60"/>
   </a>
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="" width="60" height="60"/>
   </a>
+  </a>
+  <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="" width="60" height="60"/>
+  </a>
+  
+  <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="" width="60" height="60"/>
+  </a>
+  </a>
+  <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="" width="60" height="60"/>
 </p>
 
 ---
