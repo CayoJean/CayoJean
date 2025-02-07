@@ -5,12 +5,12 @@
 
 ### <Acerca de Mí/>:
 <div id="header" align="center">
-  <h3> Soy un Programador Full-Stack Developer Jr.... <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="30px" width="105px"/>
+  <h3> Soy un Programador Web Full-Stack Developer Jr.... <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="30px" width="105px"/>
   </h3>
 </div>
 
 <div id="header" align="center">
-  <h3> Con conocimientos prácticos en Front-End (HTML, CSS y JAVASCRIPT), Back-End (JAVA, SPRING BOOT y SPRING SECURITY) y con capacidad de entender nuevas tecnologías rápidamente y la facultad de trabajar en un entorno de equipo. Mi viaje en el mundo de la tecnología comenzó con una fascinación por crear soluciones que no solo funcionan de manera eficiente, sino que también brindan una experiencia de usuario convincente. A medida que continúa mi viaje en el desarrollo Full Stack, siempre estoy buscando proyectos y oportunidades colaborativas en los que pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!.
+  <h3> Con conocimientos prácticos en Front-End (HTML, CSS y JAVASCRIPT), Back-End (JAVA, SPRING BOOT y SPRING SECURITY) y con capacidad de entender nuevas tecnologías rápidamente y la facultad de trabajar en un entorno de equipo. Mi viaje en el mundo de la tecnología comenzó con una fascinación por crear soluciones que no solo funcionan de manera eficiente, sino que también brindan una experiencia de usuario convincente. A medida que continúa mi viaje en el desarrollo Full-Stack, siempre estoy buscando proyectos y oportunidades colaborativas en los que pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!.
   </h3>
 </div>
 
