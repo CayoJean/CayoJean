@@ -5,7 +5,7 @@
 
 ### <Acerca de Mí/>:
 <div id="header" align="center">
-  <h3> Soy un Programador Full Stack Developer Junior.... <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="30px" width="105px"/>
+  <h3> Soy un Programador Full-Stack Developer Jr.... <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="30px" width="105px"/>
   </h3>
 </div>
 
