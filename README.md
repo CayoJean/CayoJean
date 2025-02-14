@@ -26,7 +26,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
-  <a href="[https://x.com](https://x.com/CayoJeanFs)" target="_blank">
+  <a href="https://x.com/CayoJeanFs" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/X_icon_-_Gray.svg" alt="X" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
