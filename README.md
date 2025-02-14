@@ -18,23 +18,23 @@
   <a href="https://cayojeanweb.netlify.app/" target="_blank">
     <img src="[https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg](https://upload.wikimedia.org/wikipedia/commons/e/ea/WP23PuzzleMundo.svg)" alt="Pagina Web" height="50px" width="55px" />
   </a>
-  <a href="https://web.facebook.com/" target="_blank">
+  <a href="https://web.facebook.com/cayoyangfs.31" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://www.instagram.com/cayo__yang/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
-  <a href="https://x.com" target="_blank">
+  <a href="[https://x.com](https://x.com/CayoJeanFs)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/X_icon_-_Gray.svg" alt="X" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discordapp.com/users/1210759417046368328" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Discord-vamp-icon.png" alt="Discord" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="50px" width="55px" />
   </a>
   <span style="width: 10px;"> </span>
@@ -48,11 +48,11 @@
 ### < Contactame /> :
 - Pagina Web <img align="center" src="" alt="" height="14px" width="12px" /> : **https://cayojeanweb.netlify.app/**
 - Hotmail <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Outlook_Icon.png" alt="" height="14px" width="12px" /> : **cayojean.fs_97@hotmail.com**
-- Facebook <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="14px" width="12px" /> : **www.facebook.com**
-- Instagram <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="14px" width="12px" /> : **www.instagram.com**
-- X <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="" height="14px" width="12px" /> : **www.x.com**
-- Discord <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Discord_code.png" alt="" height="14px" width="12px" /> : **www.discord.com**
-- Linkedln <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Linke_din.png" alt="" height="14px" width="12px" /> : **www.linkedln.com**
+- Facebook <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="14px" width="12px" /> : **https://web.facebook.com/cayoyangfs.31**
+- Instagram <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="14px" width="12px" /> : **https://www.instagram.com/cayo__yang/**
+- X <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="" height="14px" width="12px" /> : **https://x.com/CayoJeanFs**
+- Discord <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Discord_code.png" alt="" height="14px" width="12px" /> : **https://discordapp.com/users/1210759417046368328**
+- Linkedln <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Linke_din.png" alt="" height="14px" width="12px" /> : **https://www.linkedin.com/in/cayo-jean/**
 - WhatsApp <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="" height="14px" width="12px" /> : **www.whatsapp.com**
   
 ---
