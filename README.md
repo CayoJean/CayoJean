@@ -103,6 +103,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Mis Estadísticas de GitHub</b>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="25px" valign="bottom" /> Mis estadísticas de GitHub
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayojean&layout=compact&theme=vision-glow&hide_border=false&langs_count=6" alt="Mis Lenguajes Más Usados" />
+</p>
 <!--
 **CayoJean/CayoJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
