@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=cayojean&label=Vistas+de+Perfil&style=plastic&color=blueviolet" alt="Vistas de Perfil" style="pointer-events: none;" />
 
-<h1 align="center"><b>Hola, Soy Cayo Jean </b> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="20px"/></h1>
+<h1 align="center"><b>Hola, Soy Cayo Jean </b> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="45px"/></h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
