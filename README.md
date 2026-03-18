@@ -54,7 +54,7 @@
 - Linkedln <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Linke_din.png" alt="" height="14px" width="12px" /> : **https://www.linkedin.com/in/cayo-jean/**
 - WhatsApp <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="" height="14px" width="12px" /> : **www.whatsapp.com**
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Habilidades Técnicas y Herramientas</b>
 <p align="left">
