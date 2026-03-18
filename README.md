@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=cayojean&label=Vistas+de+Perfil&style=plastic&color=blueviolet" alt="Vistas de Perfil" />
 <div align="center">
   <br/>
-  <b><font size="7">Hola, Soy Cayo Jean <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></font></b>
+  <b><font size="7">Hola, Soy Cayo Jean <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="30px"/></font></b>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
