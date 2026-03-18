@@ -57,7 +57,7 @@
 
 - Discord: &nbsp; <a href="https://discordapp.com/users/1210759417046368328" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" align="center" /></a>
 
-- Linkedln: &nbsp; <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" align="center" /></a>
+- LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" align="center" /></a>
 
 - WhatsApp: &nbsp; <a href="https://wa.me/51921312384" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" align="center" /></a>
   
