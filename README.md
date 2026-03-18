@@ -105,13 +105,12 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Mis Estadísticas de GitHub</b>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="25px" valign="bottom" /> Mis estadísticas de GitHub
-</h2>
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayojean&layout=compact&theme=vision-glow&hide_border=false&langs_count=6" alt="Mis Lenguajes Más Usados" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
 <!--
 **CayoJean/CayoJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
