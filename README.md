@@ -52,7 +52,8 @@
 - Instagram <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="14px" width="12px" /> : **https://www.instagram.com/cayo__yang/**
 - X <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="" height="14px" width="12px" /> : **https://x.com/CayoJeanFs**
 - Discord <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Discord_code.png" alt="" height="14px" width="12px" /> : **https://discordapp.com/users/1210759417046368328**
-- Linkedln <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Linke_din.png" alt="" height="14px" width="12px" /> : **https://www.linkedin.com/in/cayo-jean/**
+- Linkedln: &nbsp; <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" align="center" /></a>
+
 - WhatsApp <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="" height="14px" width="12px" /> : **www.whatsapp.com**
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
