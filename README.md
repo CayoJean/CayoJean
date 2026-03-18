@@ -17,9 +17,7 @@
 </div>
 
 <p align="center">
-  <a href="https://cayojeanweb.netlify.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="Pagina Web" width="50px" />
-</a>&nbsp;
+  codigo <a href="https://cayojeanweb.netlify.app/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/WP23PuzzleMundo.svg" alt="Pagina Web" width="50px" /></a>&nbsp
   <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="Facebook" width="50px" /></a>&nbsp;
   <a href="https://www.instagram.com/cayo__yang/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="50px" /></a>&nbsp;
   <a href="https://x.com/CayoJeanFs" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" width="45px" /></a>&nbsp;
