@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cayojean&label=Vistas+de+Perfil&style=plastic&color=blueviolet" alt="Vistas de Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=cayojean&label=Vistas+del+perfil&style=plastic&color=blueviolet" alt="Vistas de Perfil" />
 </p>
   
 <h1 align="center"><b>Hola, Soy Cayo Jean </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
