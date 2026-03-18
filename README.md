@@ -18,30 +18,31 @@
 
 <p align="center">
   <a href="https://cayojeanweb.netlify.app/" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg](https://upload.wikimedia.org/wikipedia/commons/e/ea/WP23PuzzleMundo.svg)" alt="Pagina Web" height="50px" width="55px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/WP23PuzzleMundo.svg" alt="Pagina Web" width="50px" />
   </a>
+  &nbsp;
   <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="50px" width="55px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="50px" />
   </a>
-  <span style="width: 10px;"> </span>
+  &nbsp;
   <a href="https://www.instagram.com/cayo__yang/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="50px" width="55px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="50px" />
   </a>
-  <span style="width: 10px;"> </span>
+  &nbsp;
   <a href="https://x.com/CayoJeanFs" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/X_icon_-_Gray.svg" alt="X" height="50px" width="55px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/i/i6/X_logo_2023.svg" alt="X" width="45px" />
   </a>
-  <span style="width: 10px;"> </span>
+  &nbsp;
   <a href="https://discordapp.com/users/1210759417046368328" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Discord-vamp-icon.png" alt="Discord" height="50px" width="55px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Discord_main_logo.svg" alt="Discord" width="50px" />
   </a>
-  <span style="width: 10px;"> </span>
+  &nbsp;
   <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="50px" width="55px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="50px" />
   </a>
-  <span style="width: 10px;"> </span>
-  <a href="https://whatsapp.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="50px" width="55px" />
+  &nbsp;
+  <a href="https://wa.me/519XXXXXXXX" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50px" />
   </a>
 </p>
 
