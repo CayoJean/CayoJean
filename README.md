@@ -21,7 +21,7 @@
   <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="Facebook" width="50px" /></a>&nbsp;
   <a href="https://www.instagram.com/cayo__yang/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="50px" /></a>&nbsp;
   <a href="https://x.com/CayoJeanFs" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" width="45px" /></a>&nbsp;
-  <a href="https://discordapp.com/users/1210759417046368328" target="_blank"><img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="50px" /></a>&nbsp;
+  <a href="https://discordapp.com/users/1210759417046368328" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&v=2" alt="Discord" height="35px" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="50px" /></a>&nbsp;
   <a href="https://wa.me/519XXXXXXXX" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50px" /></a>
 </p>
