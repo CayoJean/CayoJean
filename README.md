@@ -49,7 +49,8 @@
 
 - Hotmail: &nbsp; <a href="mailto:cayojean.fs_97@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="hotmail" align="center" /></a>
 
-- Facebook <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="14px" width="12px" /> : **https://web.facebook.com/CayoJeanDevProgrammer**
+- Facebook: &nbsp; <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" align="center" /></a>
+- 
 - Instagram <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="14px" width="12px" /> : **https://www.instagram.com/cayo__yang/**
 - X <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="" height="14px" width="12px" /> : **https://x.com/CayoJeanFs**
 - Discord <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Discord_code.png" alt="" height="14px" width="12px" /> : **https://discordapp.com/users/1210759417046368328**
