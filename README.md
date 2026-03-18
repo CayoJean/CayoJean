@@ -20,7 +20,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Contactos</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Contactos</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
 - Página web: &nbsp; <a href="https://cayojeanweb.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Página_Web-%230078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="website" align="center" /></a>
 
 - Hotmail: &nbsp; <a href="mailto:cayojean.fs_97@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-%230078D4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="hotmail" align="center" /></a>
@@ -39,7 +39,7 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Habilidades Técnicas y Herramientas</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Habilidades Técnicas y Herramientas</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
 <p align="left">
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="" width="60" height="60"/>
@@ -76,7 +76,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Mis Estadísticas de GitHub</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Mis Estadísticas de GitHub</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
