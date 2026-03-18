@@ -47,7 +47,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Contactos</b>
 - Página web: &nbsp; <a href="https://cayojeanweb.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Página_Web-%230078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="website" align="center" /></a>
 
-- Hotmail: &nbsp; <a href="mailto:cayojean.fs_97@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-%230078D4?style=for-the-badge&logo=icloud&logoColor=white" alt="hotmail" align="center" /></a>
+- Hotmail: &nbsp; <a href="mailto:cayojean.fs_97@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-%230078D4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="hotmail" align="center" /></a>
 
 - Facebook: &nbsp; <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" align="center" /></a>
 
