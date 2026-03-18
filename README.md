@@ -46,7 +46,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Contactos</b>
 - Pagina Web <img align="center" src="" alt="" height="14px" width="12px" /> : <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin: %2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" align="center" />
+  <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" align="center" />
 </a>
 
 - Hotmail <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Outlook_Icon.png" alt="" height="14px" width="12px" /> : **cayojean.fs_97@hotmail.com**
