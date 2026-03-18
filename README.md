@@ -47,7 +47,8 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Contactos</b>
 - Página web: &nbsp; <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" align="center" /></a>
 
-- Hotmail <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Outlook_Icon.png" alt="" height="14px" width="12px" /> : **cayojean.fs_97@hotmail.com**
+- Hotmail: &nbsp; <a href="mailto:cayojean.fs_97@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-cayojean.fs__97@hotmail.com-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="hotmail" align="center" /></a>
+
 - Facebook <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" height="14px" width="12px" /> : **https://web.facebook.com/CayoJeanDevProgrammer**
 - Instagram <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="" height="14px" width="12px" /> : **https://www.instagram.com/cayo__yang/**
 - X <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="" height="14px" width="12px" /> : **https://x.com/CayoJeanFs**
