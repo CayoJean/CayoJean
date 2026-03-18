@@ -21,21 +21,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Contactos</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
-- Página web: &nbsp; <a href="https://cayojeanweb.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Página_Web-%230078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="website" align="center" /></a>
 
-- Hotmail: &nbsp; <a href="mailto:cayojean.fs_97@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-%230078D4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="hotmail" align="center" /></a>
+- Página web: &nbsp; <a href="https://cayojeanweb.netlify.app/" target="_blank" title="Visitar mi Página Web"><img src="https://img.shields.io/badge/Página_Web-%230078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="website" align="center" title="Visitar mi Página Web" /></a>
 
-- Facebook: &nbsp; <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" align="center" /></a>
+- Hotmail: &nbsp; <a href="mailto:cayojean.fs_97@hotmail.com" target="_blank" title="Enviar un correo a Hotmail"><img src="https://img.shields.io/badge/Hotmail-%230078D4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="hotmail" align="center" title="Enviar un correo a Hotmail" /></a>
 
-- Instagram: &nbsp; <a href="https://www.instagram.com/cayo__yang/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" align="center" /></a>
+- Facebook: &nbsp; <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank" title="Ir a Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" align="center" title="Ir a Facebook" /></a>
 
-- X: &nbsp; <a href="https://x.com/CayoJeanFs" target="_blank"><img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="x" align="center" /></a>
+- Instagram: &nbsp; <a href="https://www.instagram.com/cayo__yang/" target="_blank" title="Ir a Instagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" align="center" title="Ir a Instagram" /></a>
 
-- Discord: &nbsp; <a href="https://discordapp.com/users/1210759417046368328" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" align="center" /></a>
+- X: &nbsp; <a href="https://x.com/CayoJeanFs" target="_blank" title="Ir a X (Twitter)"><img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="x" align="center" title="Ir a X (Twitter)" /></a>
 
-- LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=5865F2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="linkedin" align="center" /></a>
+- Discord: &nbsp; <a href="https://discordapp.com/users/1210759417046368328" target="_blank" title="Conectar en Discord"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" align="center" title="Conectar en Discord" /></a>
 
-- WhatsApp: &nbsp; <a href="https://wa.me/51921312384" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" align="center" /></a>
+- LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank" title="Ver perfil en LinkedIn"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=5865F2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="linkedin" align="center" title="Ver perfil en LinkedIn" /></a>
+
+- WhatsApp: &nbsp; <a href="https://wa.me/51921312384" target="_blank" title="Escribirme por WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" align="center" title="Escribirme por WhatsApp" /></a>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
