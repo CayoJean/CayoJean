@@ -20,7 +20,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Contactos</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
 
-- Portafolio Personal: &nbsp; <a href="https://cayojeanweb.netlify.app/" target="_blank" title="Visitar mi Página Web"><img src="https://img.shields.io/badge/Página_Web-%230078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="website" align="center" title="Visitar mi Portafolio" /></a>
+- Portafolio Personal: &nbsp; <a href="https://cayojeanweb.netlify.app/" target="_blank" title="Visitar mi Portafolio"><img src="https://img.shields.io/badge/Portafolio_Web-%230078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="website" align="center" title="Visitar mi Portafolio" /></a>
 
 - Hotmail: &nbsp; <a href="mailto:cayojean.fs_97@hotmail.com" target="_blank" title="Enviar un correo a Hotmail"><img src="https://img.shields.io/badge/Hotmail-%230078D4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="hotmail" align="center" title="Enviar un correo a Hotmail" /></a>
 
