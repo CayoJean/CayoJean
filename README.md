@@ -37,6 +37,14 @@
 - **Facebook:** <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" align="center" /></a>
 - **WhatsApp:** <a href="https://wa.me/51921312384" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" align="center" /></a>
 
+
+- **Linkedin:** <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%231877F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" align="center" /></a>
+- **Instagram:** <a href="https://www.instagram.com/cayo__yang/" target="_blank"><img src="https://img.shields.io/badge/instagram-%2325D366?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" align="center" /></a>
+- **X:** <a href="https://x.com/CayoJeanFs" target="_blank"><img src="https://img.shields.io/badge/x-%231877F2?style=for-the-badge&logo=x&logoColor=white" alt="x" align="center" /></a>
+- **Discord:** <a href="https://discordapp.com/users/1210759417046368328" target="_blank"><img src="https://img.shields.io/badge/discordapp-%2325D366?style=for-the-badge&logo=discordapp&logoColor=white" alt="discordapp" align="center" /></a>
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Proyectos</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
