@@ -39,9 +39,9 @@
 
 
 - **Linkedin:** <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%231877F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" align="center" /></a>
-- **Instagram:** <a href="https://www.instagram.com/cayo__yang/" target="_blank"><img src="https://img.shields.io/badge/instagram-%2325D366?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" align="center" /></a>
+<a href="https://www.instagram.com/cayo__yang/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" align="center" /></a>
 - **X:** <a href="https://x.com/CayoJeanFs" target="_blank"><img src="https://img.shields.io/badge/x-%231877F2?style=for-the-badge&logo=x&logoColor=white" alt="x" align="center" /></a>
-- **Discord:** <a href="https://discordapp.com/users/1210759417046368328" target="_blank"><img src="https://img.shields.io/badge/discordapp-%2325D366?style=for-the-badge&logo=discordapp&logoColor=white" alt="discordapp" align="center" /></a>
+<a href="https://discordapp.com/users/1210759417046368328" target="_blank"><img src="https://img.shields.io/badge/discordapp-%235865F2?style=for-the-badge&logo=discordapp&logoColor=white" alt="discordapp" align="center" /></a>
 
 
 
