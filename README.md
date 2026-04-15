@@ -39,8 +39,6 @@
 - LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank" title="Ver perfil en LinkedIn"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=5865F2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="linkedin" align="center" title="Ver perfil en LinkedIn" /></a>
 
 - WhatsApp: &nbsp; <a href="https://wa.me/51921312384" target="_blank" title="Escribirme por WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" align="center" title="Escribirme por WhatsApp" /></a>
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Proyectos</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
 
@@ -48,8 +46,10 @@
 
 | Proyecto | Descripción | Enlaces |
 | :--- | :--- | :--- |
-| **CJ-TICKETENTRY** | **Sistema de Gestión de Tickets.** <br> Desarrollado con React, Supabase y Vite. Gestión de entradas con códigos QR. | [🌐 Demo](https://cj-ticketentry.netlify.app/) |
+| **CJ-TICKETENTRY** | **Sistema de Gestión de Tickets.** <br> Desarrollado con React y Vite. Gestión de entradas con códigos QR. | [🌐 Demo](https://cj-ticketentry.netlify.app/) |
 | **CayoJeanWeb** | **Portafolio Personal.** <br> Marca personal y portafolio interactivo para mostrar mi trabajo como Desarrollador Full-Stack. | [🌐 Demo](https://cayojeanweb.netlify.app/) |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Habilidades Técnicas y Herramientas</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
 <p align="left">
