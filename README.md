@@ -9,36 +9,33 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Acerca de mí</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
-  <h3> Soy un Programador Web Full-Stack Developer Jr.... <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="30px" width="105px"/>
-  </h3>
+
+<div align="center">
+  <h3> Soy un Programador Web Full-Stack Developer Jr.... <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Rayyann.jpg" alt="" height="30px" width="105px"/></h3>
 </div>
 
-<div id="header" align="center">
-  <h3> Con conocimientos prácticos en Front-End (HTML, CSS y JAVASCRIPT), Back-End (JAVA, SPRING BOOT y SPRING SECURITY) y con capacidad de entender nuevas tecnologías rápidamente y la facultad de trabajar en un entorno de equipo. Mi viaje en el mundo de la tecnología comenzó con una fascinación por crear soluciones que no solo funcionan de manera eficiente, sino que también brindan una experiencia de usuario convincente. A medida que continúa mi viaje en el desarrollo Full-Stack, siempre estoy buscando proyectos y oportunidades colaborativas en los que pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!.
-  </h3>
+<div align="center">
+  <h3> Con conocimientos prácticos en Front-End (HTML, CSS y JAVASCRIPT), Back-End (JAVA, SPRING BOOT y SPRING SECURITY) y con capacidad de entender nuevas tecnologías rápidamente y la facultad de trabajar en un entorno de equipo. Mi viaje en el mundo de la tecnología comenzó con una fascinación por crear soluciones que no solo funcionan de manera eficiente, sino que también brindan una experiencia de usuario convincente. A medida que continúa mi viaje en el desarrollo Full-Stack, siempre estoy buscando proyectos y oportunidades colaborativas en los que pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!.</h3>
 </div>
 
-<p align="center"><a href="https://cayojeanweb.netlify.app/" target="_blank" title="Portafolio Personal" style="text-decoration: none !important; display: inline-block; line-height: 0; vertical-align: middle; border: none; outline: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Globe.png" alt="Web" width="46px" style="display: block; border: none; padding: 0; margin: 0;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank" title="Facebook"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="Facebook" width="50px" title="Facebook" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/cayo__yang/" target="_blank" title="Instagram"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="50px" title="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.com/CayoJeanFs" target="_blank" title="X (Twitter)"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" width="48px" title="X (Twitter)" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discordapp.com/users/1210759417046368328" target="_blank" title="Discord"><img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="50px" height="100px" title="Discord" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cayo-jean/" target="_blank" title="LinkedIn"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="50px" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/519XXXXXXXX" target="_blank" title="WhatsApp"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50px" title="WhatsApp" /></a></p>
+<p align="center">
+  <a href="https://cayojeanweb.netlify.app/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Globe.png" alt="Web" width="46px" /></a>&nbsp;&nbsp;
+  <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="Facebook" width="50px" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/cayo__yang/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="50px" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/CayoJeanFs" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" width="48px" /></a>&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/1210759417046368328" target="_blank"><img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35px" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="50px" /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/51921312384" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50px" /></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Contactos</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
 
-- Portafolio Personal: &nbsp; <a href="https://cayojeanweb.netlify.app/" target="_blank" title="Visitar mi Portafolio"><img src="https://img.shields.io/badge/Portafolio_Web-%230078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="website" align="center" title="Visitar mi Portafolio" /></a>
-
-- Hotmail: &nbsp; <a href="mailto:cayojean.fs_97@hotmail.com" target="_blank" title="Enviar un correo a Hotmail"><img src="https://img.shields.io/badge/Hotmail-%230078D4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="hotmail" align="center" title="Enviar un correo a Hotmail" /></a>
-
-- Facebook: &nbsp; <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank" title="Ir a Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" align="center" title="Ir a Facebook" /></a>
-
-- Instagram: &nbsp; <a href="https://www.instagram.com/cayo__yang/" target="_blank" title="Ir a Instagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" align="center" title="Ir a Instagram" /></a>
-
-- X: &nbsp; <a href="https://x.com/CayoJeanFs" target="_blank" title="Ir a X (Twitter)"><img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="x" align="center" title="Ir a X (Twitter)" /></a>
-
-- Discord: &nbsp; <a href="https://discordapp.com/users/1210759417046368328" target="_blank" title="Conectar en Discord"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" align="center" title="Conectar en Discord" /></a>
-
-- LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank" title="Ver perfil en LinkedIn"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=5865F2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="linkedin" align="center" title="Ver perfil en LinkedIn" /></a>
-
-- WhatsApp: &nbsp; <a href="https://wa.me/51921312384" target="_blank" title="Escribirme por WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" align="center" title="Escribirme por WhatsApp" /></a>
+- **Portafolio Personal:** <a href="https://cayojeanweb.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portafolio_Web-%230078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="website" align="center" /></a>
+- **Hotmail:** <a href="mailto:cayojean.fs_97@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-%230078D4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="hotmail" align="center" /></a>
+- **Facebook:** <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" align="center" /></a>
+- **WhatsApp:** <a href="https://wa.me/51921312384" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" align="center" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -48,15 +45,26 @@
 
 | Proyecto | Descripción | Enlaces |
 | :--- | :--- | :--- |
-| **CJ-TICKETENTRY** | **Sistema de Gestión de Tickets.** <br> Desarrollado con React y Vite. Gestión de entradas con códigos QR. | [🌐 Demo](https://cj-ticketentry.netlify.app/) |
-| **CayoJeanWeb** | **Portafolio Personal.** <br> Marca personal y portafolio interactivo para mostrar mi trabajo como Desarrollador Full-Stack. | [🌐 Demo](https://cayojeanweb.netlify.app/) |
+| **CJ-TICKETENTRY** | **Sistema de Gestión de Tickets.** Desarrollado con React y Vite. Gestión de entradas con códigos QR. | [🌐 Demo](https://cj-ticketentry.netlify.app/) |
+| **CayoJeanWeb** | **Portafolio Personal.** Marca personal para mostrar mi trabajo como Desarrollador Full-Stack. | [🌐 Demo](https://cayojeanweb.netlify.app/) |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Habilidades Técnicas y Herramientas</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="55" height="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="55" height="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" width="55" height="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="55" height="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="80" height="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" width="80" height="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="55" height="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="55" height="55"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="55" height="55"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" width="55" height="55"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="55" height="55"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="80" height="55"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" width="80" height="55"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="55" height="55"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="55" height="55"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -64,19 +72,16 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Mis Estadísticas de GitHub</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 -----
-Last Edited on: 15/05/2026
+Last Edited on: 15/04/2026
 <!--
 **CayoJean/CayoJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
