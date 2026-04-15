@@ -45,8 +45,8 @@
 
 | Proyecto | Descripción | Enlaces |
 | :--- | :--- | :--- |
-| **CJ-TICKETENTRY** <br> <img src="https://github.com/tu-usuario/cj-ticketentry/raw/master/src/assets/logo.png" width="80" alt="Logo TicketEntry"/> | **Sistema de Gestión de Tickets.** Desarrollado con React, Supabase y Vite. Gestión de entradas con validación QR y panel de admin. | [🌐 Demo](https://cj-ticketentry.netlify.app/) |
-| **CayoJeanWeb** <br> <img src="https://github.com/tu-usuario/cayojeanweb/raw/master/src/assets/logo.png" width="80" alt="Icono Portafolio"/> | **Portafolio Profesional.** Marca personal interactiva para mostrar mi trabajo como Programador Full-Stack y Técnico en Computación. | [🌐 Demo](https://cayojeanweb.netlify.app/) |
+| **CJ-TICKETENTRY** <br> <img src="https://github.com/tu-usuario/cj-ticketentry/raw/master/src/assets/logo.png" width="80" alt="Logo TicketEntry"/> | **Sistema de Gestión de Entradas.** Desarrollado con React, Supabase y Vite. Gestión de entradas con validación QR y panel de administración. | [🌐 Ingresar](https://cj-ticketentry.netlify.app/) |
+| **CayoJeanWeb** <br> <img src="https://github.com/tu-usuario/cayojeanweb/raw/master/src/assets/logo.png" width="80" alt="Icono Portafolio"/> | **Portafolio Profesional.** Marca personal interactiva para mostrar mi trabajo como Programador Full-Stack y Técnico en Computación. | [🌐 Ingresar](https://cayojeanweb.netlify.app/) |
 
 </div>
 
