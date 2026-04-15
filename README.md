@@ -42,6 +42,15 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Proyectos</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
+
+<div align="center">
+
+| Proyecto | Descripción | Enlaces |
+| :--- | :--- | :--- |
+| **CJ-TICKETENTRY** | **Sistema de Gestión de Tickets.** <br> Desarrollado con React, Supabase y Vite. Gestión de entradas con códigos QR. | [🌐 Demo](https://cj-ticketentry.netlify.app/) |
+| **CayoJeanWeb** | **Portafolio Personal.** <br> Marca personal y portafolio interactivo para mostrar mi trabajo como Desarrollador Full-Stack. | [🌐 Demo](https://cayojeanweb.netlify.app/) |
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Habilidades Técnicas y Herramientas</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
 <p align="left">
   <!-- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> -->
