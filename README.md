@@ -36,12 +36,10 @@
 - **Hotmail:** <a href="mailto:cayojean.fs_97@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-%230078D4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="hotmail" align="center" /></a>
 - **Facebook:** <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" align="center" /></a>
 - **WhatsApp:** <a href="https://wa.me/51921312384" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" align="center" /></a>
-
-
-- **Linkedin:** <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%231877F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" align="center" /></a>
-<a href="https://www.instagram.com/cayo__yang/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" align="center" /></a>
-- **X:** <a href="https://x.com/CayoJeanFs" target="_blank"><img src="https://img.shields.io/badge/x-%231877F2?style=for-the-badge&logo=x&logoColor=white" alt="x" align="center" /></a>
-<a href="https://discordapp.com/users/1210759417046368328" target="_blank"><img src="https://img.shields.io/badge/discordapp-%235865F2?style=for-the-badge&logo=discordapp&logoColor=white" alt="discordapp" align="center" /></a>
+- **Linkedin:** <a href="https://www.linkedin.com/in/cayo-jean/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" align="center" /></a>
+- **Instagram:** <a href="https://www.instagram.com/cayo__yang/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" align="center" /></a>
+- **X:** <a href="https://x.com/CayoJeanFs" target="_blank"><img src="https://img.shields.io/badge/x-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="x" align="center" /></a>
+- **Discord:** <a href="https://discordapp.com/users/1210759417046368328" target="_blank"><img src="https://img.shields.io/badge/discordapp-%235865F2?style=for-the-badge&logo=discordapp&logoColor=white" alt="discordapp" align="center" /></a>
 
 
 
