@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=cayojean&label=Vistas+de+Perfil&style=plastic&color=blueviolet" alt="Vistas de Perfil" />
 
 <p align="center">
-  <img src="https://github.com/CayoJean/Portafolio-Personal/tree/main/imagenes" alt="Mi Avatar" width="250" />
+  <img src="https://github.com/CayoJean/Portafolio-Personal/tree/main/imagenes/foto.png" alt="Mi Avatar" width="250" />
 </p>
 
 <p align="center">
