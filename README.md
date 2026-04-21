@@ -1,8 +1,8 @@
+<img src="https://komarev.com/ghpvc/?username=cayojean&label=Vistas+de+Perfil&style=plastic&color=blueviolet" alt="Vistas de Perfil" />
+
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=cayojean&label=Vistas+de+Perfil&style=plastic&color=blueviolet" alt="Vistas de Perfil" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CayoJean/Portafolio-Personal/main/imagenes/foto.png" alt="Mi Avatar" width="80" />
