@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=cayojean&label=Vistas+de+Perfil&style=plastic&color=blueviolet" alt="Vistas de Perfil" style="pointer-events: none;" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Cayo+Jean+Dev;Desarrollador;Full-Stack+%7C" alt="Typing SVG" />
+align="center" <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Cayo+Jean+Dev;Desarrollador;Full-Stack+%7C" alt="Typing SVG" "width="45px"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
