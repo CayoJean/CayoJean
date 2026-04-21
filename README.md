@@ -98,15 +98,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 -----
-<table width="100%">
-  <tr>
-    <td align="left" width="33%">Last Edited on: 21/04/2026</td>
-    <td align="center" width="34%">
-      <img src="https://komarev.com/ghpvc/?username=cayojean&label=Vistas+de+Perfil&style=plastic&color=blueviolet" alt="Vistas de Perfil" />
-    </td>
-    <td width="33%"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cayojean&label=Vistas+de+Perfil&style=plastic&color=blueviolet" alt="Vistas de Perfil" />
+  <br />
+  <br />
+  Last Edited on: 21/04/2026
+</p>
 <!--
 **CayoJean/CayoJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
