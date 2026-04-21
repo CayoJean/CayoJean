@@ -2,10 +2,10 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=cayojean&label=Vistas+de+Perfil&style=plastic&color=blueviolet" alt="Vistas de Perfil" />
+
 <p align="center">
   <img src="https://tu-imagen-de-avatar.png" alt="Avatar" width="250" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=cayojean&label=Vistas+de+Perfil&style=plastic&color=blueviolet" alt="Vistas de Perfil" />
 </p>
 
 <p align="center">
