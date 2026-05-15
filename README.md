@@ -21,7 +21,17 @@
 </div>
 
 <div align="center">
-  <h3> Con conocimientos prácticos en Front-End (HTML, CSS y JAVASCRIPT), Back-End (JAVA, SPRING BOOT y SPRING SECURITY) y con capacidad de entender nuevas tecnologías rápidamente y la facultad de trabajar en un entorno de equipo. Mi viaje en el mundo de la tecnología comenzó con una fascinación por crear soluciones que no solo funcionan de manera eficiente, sino que también brindan una experiencia de usuario convincente. A medida que continúa mi viaje en el desarrollo Full-Stack, siempre estoy buscando proyectos y oportunidades colaborativas en los que pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!.</h3>
+  <h3> Soy un Desarrollador Full-Stack peruano con experiencia práctica
+          construyendo productos digitales reales. Creé CJ-TICKETENTRY, una
+          plataforma de venta y gestión de tickets para eventos en Perú con pago
+          vía Yape, y CJ-EventShare, un módulo de compartición de fotos en
+          tiempo real para eventos. Me especializo en Front-End con React, Vite
+          y JavaScript, y tengo bases sólidas en Back-End con Java, Spring Boot
+          y MySQL. Trabajo con Netlify para despliegue continuo y Netlify Blobs
+          para persistencia de datos. Disfruto construir soluciones que
+          resuelven problemas reales, con foco en la experiencia de usuario y el
+          rendimiento. Siempre en busca de nuevos retos y proyectos donde pueda
+          aportar valor y seguir creciendo.</h3>
 </div>
 
 <p align="center">
@@ -38,7 +48,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp; <b> Contactos</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" align="center">&nbsp;
 
-- **Portafolio Personal:** <a href="https://cayojeanweb.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portafolio_Web-%230078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="website" align="center" /></a>
+- **Portafolio Personal:** <a href="https://cayojeanweb.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/CAYO JEAN_DEV-%230078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="website" align="center" /></a>
 - **Hotmail:** <a href="mailto:cayojean.fs_97@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-%230078D4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="hotmail" align="center" /></a>
 - **Facebook:** <a href="https://web.facebook.com/CayoJeanDevProgrammer" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" align="center" /></a>
 - **WhatsApp:** <a href="https://wa.me/51921312384" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" align="center" /></a>
@@ -58,7 +68,7 @@
 | Proyecto | Descripción | Enlaces |
 | :--- | :--- | :---: |
 | **Entrada de boletos CJ** | **Sistema de Gestión de Entradas.** Desarrollado con React, Supabase y Vite. Gestión de entradas con validación QR y panel de administración. | <a href="https://cj-ticketentry.netlify.app/"><img src="https://raw.githubusercontent.com/CayoJean/Portafolio-Personal/main/imagenes/LOGO OFICIAL CJ-TICKETENTRY.png" width="50" /><br>Ingresar</a> |
-| **CayoJeanWeb** | **Portafolio Profesional.** Marca personal interactiva para mostrar mi trabajo como Programador Full-Stack y Técnico en Computación. | <a href="https://cayojeanweb.netlify.app/"><img src="https://raw.githubusercontent.com/CayoJean/Portafolio-Personal/main/imagenes/foto.png" alt="Mi Avatar" width="30" /><br>Ingresar</a> |
+| **Portafolio** | **CAYO JEAN DEV.** Marca personal interactiva para mostrar mi trabajo como Programador Full-Stack y Técnico en Computación. | <a href="https://cayojeanweb.netlify.app/"><img src="https://raw.githubusercontent.com/CayoJean/Portafolio-Personal/main/imagenes/foto.png" alt="Mi Avatar" width="30" /><br>Ingresar</a> |
 
 </div>
 
@@ -73,11 +83,18 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" width="55" height="55"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="55" height="55"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="55" height="55"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="55" height="55"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="80" height="55"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" width="80" height="55"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Boot" width="55" height="55"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Netlify_logo.svg" alt="Netlify Blobs" width="55" height="55"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Netlify_logo.svg" alt="Netlify Blobs" width="55" height="55"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="55" height="55"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman-logo.svg" alt="Postman" width="55" height="55"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="55"         height="55"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="55" height="55"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="55" height="55"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" width="80" height="55"/></td>
+    
   </tr>
 </table>
 
