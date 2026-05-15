@@ -68,7 +68,7 @@
 | Proyecto | Descripción | Enlaces |
 | :--- | :--- | :---: |
 | **Entrada de boletos CJ** | **Sistema de Gestión de Entradas.** Desarrollado con React, Supabase y Vite. Gestión de entradas con validación QR y panel de administración. | <a href="https://cj-ticketentry.netlify.app/"><img src="https://raw.githubusercontent.com/CayoJean/Portafolio-Personal/main/imagenes/LOGO OFICIAL CJ-TICKETENTRY.png" width="50" /><br>Ingresar</a> |
-| **Portafolio** | **CAYO JEAN DEV.** Marca personal interactiva para mostrar mi trabajo como Programador Full-Stack y Técnico en Computación. | <a href="https://cayojeanweb.netlify.app/"><img src="https://raw.githubusercontent.com/CayoJean/Portafolio-Personal/main/imagenes/foto.png" alt="Mi Avatar" width="30" /><br>Ingresar</a> |
+| **Portafolio** | **Cayo Jean DEV.** Marca personal interactiva para mostrar mi trabajo como Programador Full-Stack y Técnico en Computación. | <a href="https://cayojeanweb.netlify.app/"><img src="https://raw.githubusercontent.com/CayoJean/Portafolio-Personal/main/imagenes/foto.png" alt="Mi Avatar" width="30" /><br>Ingresar</a> |
 
 </div>
 
@@ -87,10 +87,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="80" height="55"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Boot" width="55" height="55"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Netlify_logo.svg" alt="Netlify Blobs" width="55" height="55"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Netlify_logo.svg" alt="Netlify Blobs" width="55" height="55"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="55" height="55"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman-logo.svg" alt="Postman" width="55" height="55"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="55"         height="55"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="55" height="55"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" width="80" height="55"/></td>
